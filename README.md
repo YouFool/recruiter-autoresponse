@@ -6,24 +6,35 @@ This is licensed under MIT so please feel free to fork and use as you'd like.
 If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
 
 ## The autoresponse
-
+### :us:
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm very thankful for it.
+Thanks so much for reaching out. It makes me really happy to see that my profile caught your attention! 
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+As a curious person myself, I'm always interested in hearing about what new and exciting opportunities are out there. However, as a Software Engineer, I'm sure you can imagine that I receive a lot of offers here at LinkedIn.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+While I would really like to, I don't have the time to hop on a call with everyone who reaches out. Frequently, incoming proposals happen to have a poor fit.
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+That being said, I would love to know more about your opportunity and understand the seniority level you're looking for.
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+Could you send me the company name, the job description and, total compensation details for the role you're reaching out in reference to? I want to have this information so I can make best with our precious time by making sure the oportunity is strongly aligned with my curent career moment.
 
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
- 
-I look forward to hearing from you.
+Thanks once again for reaching out, I'll be waiting for the details requested to continue our conversation. Looking forward to hearing from you!
 
 João
+```
+### :brazil:
+```
+Fico muito feliz pelo seu contato e que o meu perfil chamou a sua atenção!
+
+Por ser uma pessoa curiosa, eu estou sempre interessado nas oportunidades que surgem. Todavia, como Engenheiro de Software, você deve imaginar que recebo ofertas frequentemente aqui no LinkedIn.
+
+Eu gostaria muito, porém não possuo a disponibilidade de entrar em call para discutir todas oportunidades recebidas e, frequentemente, algumas delas acabam não tendo um bom fit. 
+
+Dito isso, eu adoraria saber mais sobre a sua oportunidade, e entender o nível de senioridade que você está buscando.
+
+Podes me mandar o nome da empresa, uma descrição detalhada da vaga e a compensação total da posição que você está tentando preencher? Faço questão de ter essas informações para que eu possa fazer o melhor para com o nosso tempo, garantindo que a oportunidade esteja fortemente alinhada com o meu momento.
+
+Agradeço novamente o seu contato e fico no aguardo dos detalhes acima para seguirmos a nossa conversa. Um abraço!
 ```
 
 ## Outcomes
