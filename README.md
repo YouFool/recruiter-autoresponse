@@ -27,13 +27,13 @@ João
 ```
 Fico muito feliz pelo seu contato e que o meu perfil chamou a sua atenção!
 
-Por ser uma pessoa curiosa, eu estou sempre interessado nas oportunidades que surgem. Todavia, como Engenheiro de Software, você deve imaginar que recebo ofertas frequentemente aqui no LinkedIn.
+Por ser uma pessoa curiosa, eu estou sempre interessado nas oportunidades que me apresentam. Todavia, como Engenheiro de Software, você deve imaginar que recebo ofertas frequentemente aqui no LinkedIn.
 
-Eu gostaria muito, porém não possuo a disponibilidade de entrar em call para discutir todas oportunidades recebidas e, frequentemente, algumas delas acabam não tendo um bom fit. 
+Eu gostaria muito, porém não possuo a disponibilidade de entrar em call para discutir todas oportunidades recebidas. Frequentemente, muitas delas acabam não tendo um bom fit. 
 
 Dito isso, eu adoraria saber mais sobre a sua oportunidade e entender o nível de senioridade que você está buscando.
 
-Podes me mandar o nome da empresa, uma descrição detalhada da vaga e a compensação total da posição que você está tentando preencher? Faço questão de ter essas informações para que eu possa fazer o melhor para com o nosso tempo, garantindo que a oportunidade esteja fortemente alinhada com o meu momento antes de seguirmos em frente.
+Pderias me mandar o nome da empresa, uma descrição detalhada da vaga e a compensação total da posição que você está tentando preencher? Faço questão de ter essas informações para que eu possa fazer o melhor para com o nosso tempo, garantindo que a oportunidade esteja fortemente alinhada com o meu momento antes de seguirmos em frente.
 
 Agradeço novamente o seu contato e fico no aguardo dos detalhes acima para seguirmos a nossa conversa. Um grande abraço!
 ```
