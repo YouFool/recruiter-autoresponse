@@ -33,7 +33,7 @@ Eu gostaria muito, porém não possuo a disponibilidade de entrar em call para d
 
 Dito isso, eu adoraria saber mais sobre a sua oportunidade e entender o nível de senioridade que você está buscando.
 
-Pderias me mandar o nome da empresa, uma descrição detalhada da vaga e a compensação total da posição que você está tentando preencher? Faço questão de ter essas informações para que eu possa fazer o melhor para com o nosso tempo, garantindo que a oportunidade esteja fortemente alinhada com o meu momento antes de seguirmos em frente.
+Poderias me mandar o nome da empresa, uma descrição detalhada da vaga e a compensação total da posição que você está tentando preencher? Faço questão de ter essas informações para que eu possa fazer o melhor para com o nosso tempo, garantindo que a oportunidade esteja fortemente alinhada com o meu momento antes de seguirmos em frente.
 
 Agradeço novamente o seu contato e fico no aguardo dos detalhes acima para seguirmos a nossa conversa. Um grande abraço!
 ```
