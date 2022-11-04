@@ -8,17 +8,17 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## The autoresponse
 ### :us:
 ```
-Thanks so much for reaching out. It makes me really happy to see that my profile caught your attention! 
+Thank you so much for reaching out. It makes me really happy to see that my profile caught your attention! 
 
 As a curious person myself, I'm always interested in hearing about what new and exciting opportunities are out there. However, as a Software Engineer, I'm sure you can imagine that I receive a lot of offers here at LinkedIn.
 
-While I would really like to, I don't have the time to hop on a call with everyone who reaches out. Frequently, incoming proposals happen to lack a strong fit.
+While I would really like to, I don't have the time to hop on a call with everyone I come in contact with. Frequently, incoming proposals happen to lack a strong fit.
 
 That being said, I would love to know more about your opportunity and understand the seniority level you're looking for.
 
-Could you send me the company name, job description, and total compensation details for the role you're reaching out in reference to? I want to have this information so I can make the best of our precious time by ensuring the opportunity is strongly aligned with my current career moment.
+Could you send me the company name, job description, and total compensation details for the role you're reaching out in reference to? I want to have this information so I can make the best of our precious time, ensuring that the opportunity is strongly aligned with my current career moment.
 
-Thanks once again for reaching out, I'll be waiting for the details requested to continue our conversation. I am looking forward to hearing from you!
+Thanks once again for reaching out, I'll be waiting for the details requested to continue our conversation and I'm looking forward to hearing from you!
 
 The Best,
 João
