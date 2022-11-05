@@ -18,7 +18,7 @@ That being said, I would love to know more about your opportunity and understand
 
 Could you send me the company name, job description, and total compensation details for the role you're reaching out in reference to? I want to have this information so I can make the best of our precious time, ensuring that the opportunity is strongly aligned with my current career moment.
 
-Thanks once again for reaching out, I'll be waiting for the details requested to continue our conversation and I'm looking forward to hearing from you!
+Thanks once again for reaching out, I'll be waiting for the details requested to continue our conversation. I'm looking forward to hearing from you!
 
 The Best,
 João
